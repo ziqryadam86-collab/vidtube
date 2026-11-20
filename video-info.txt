@@ -4,5 +4,5 @@ user-agent:("Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML
 status:(live)
 
 live-streaming:(Astroawani)
-link:(test)
+link:(https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8)
 status:(live)
