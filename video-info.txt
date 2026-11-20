@@ -22,3 +22,7 @@ status:(live)
 live-streaming:(BBCearth)
 link:(https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8)
 status:(live)
+
+live-streaming:(NHK General TV JOJG-DTV 1080i)
+link:(https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8)
+status:(live)
