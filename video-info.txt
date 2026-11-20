@@ -10,3 +10,7 @@ status:(live)
 live-streaming:(Maahtv)
 link:(https://hls.maahtv.live/hls/stream.m3u8)
 status:(live)
+
+live-streaming:(Hotfm)
+link:(https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8)
+status:(live)
