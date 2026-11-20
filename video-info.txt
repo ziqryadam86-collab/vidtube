@@ -18,3 +18,7 @@ status:(live)
 live-streaming:(Flyfm)
 link:(https://stream.rcs.revma.com/q17aka9mtd3vv/hls.m3u8)
 status:(live)
+
+live-streaming:(BBCearth)
+link:(https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8)
+status:(live)
