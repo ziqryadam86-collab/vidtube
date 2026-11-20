@@ -14,3 +14,7 @@ status:(live)
 live-streaming:(Hotfm)
 link:(https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8)
 status:(live)
+
+live-streaming:(Flyfm)
+link:(https://stream.rcs.revma.com/q17aka9mtd3vv/hls.m3u8)
+status:(live)
